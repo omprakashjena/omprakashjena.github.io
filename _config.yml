@@ -21,6 +21,8 @@ minimal_mistakes_skin: "dark"
 # =============================================
 # BUILD SETTINGS
 # =============================================
+include:
+  - _pages
 markdown: kramdown
 highlighter: rouge
 permalink: /:categories/:title/
@@ -43,10 +45,10 @@ plugins:
 # =============================================
 author:
   name: "Omprakash Jena"
-  avatar: "/assets/images/bio-photo.jpg"   # Put your photo here
+  avatar: "/assets/images/bio-photo.png"   # Put your photo here
   bio: "Developer. Linux enthusiast. Open source tinkerer."
   location: "India"
-  email: "your@email.com"
+  email: "omprakash.jena@hotmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -54,9 +56,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/omprakashjena"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/yourhandle"
 
 # =============================================
 # FOOTER LINKS
