@@ -47,7 +47,7 @@ author:
   name: "Omprakash Jena"
   avatar: "/assets/images/bio-photo.png"   # Put your photo here
   bio: "Developer. Linux enthusiast. Open source tinkerer."
-  location: "India"
+  location: "United Kingdom"
   email: "omprakash.jena@hotmail.com"
   links:
     - label: "GitHub"
@@ -55,7 +55,7 @@ author:
       url: "https://github.com/omprakashjena"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/omprakashjena"
+      url: "https://www.linkedin.com/in/omprakash-jena/"
 
 # =============================================
 # FOOTER LINKS
